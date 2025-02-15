@@ -4,4 +4,4 @@ backdrop = 1.x
 type = module
 tags[] = Editors
 tags[] = Media
-
+dependencies[] = ckeditor
